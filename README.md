@@ -49,11 +49,6 @@
 
 ---
 
-### 🔹 AI-based Smart Systems *(Optional add your AI project here)*
-
-> Intelligent system that adapts based on user behavior
-
----
 
 ## 📊 GitHub Analytics
 
